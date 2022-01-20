@@ -4,7 +4,5 @@
   "description": "",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "@vue/reactivity": "^3.2.27"
-  }
+  "dependencies": {}
 }
